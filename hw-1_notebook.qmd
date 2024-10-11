@@ -1,0 +1,37 @@
+---
+title: "Homework assignment 1"
+author: "YOUR NAME HERE"
+format: pdf
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+## Some tips
+
+You can add a new code chunk using the green button above in this pane (has a plus sign and the letter C in a green box). Or you can use the appropriate keyboard shortcut for your operating system of CTRL+OPTION+i or CTRL+ALT+i.
+
+```{r}
+
+```
+
+It is also a good idea to occasionally render your document. This will not only automatically save your work, but if you have any errors in the document or your code, this will make it easier to troubleshoot.
+
+Once you are ready to start your assignment, you can remove all the sections starting from `## Quarto` as these do not need to be included in your submission.
+
+
+
+#Start-------------------------------
+```{r}
+
+```
+
